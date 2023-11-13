@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Oktonius Zevanya Simanungkalit</h1>
-<h3 align="center">This website is about the anime that I love, One Piece."One Piece" is a highly popular Japanese anime and manga series created by Eiichiro Oda. The story follows the adventures of Monkey D. Luffy, a young and ambitious pirate with the goal of becoming the Pirate King by finding the legendary treasure known as One Piece.</h3>
+<h1 align="left">Hi 👋, I'm Oktonius Zevanya Simanungkalit</h1>
+<h3 align="left">This website is about the anime that I love, One Piece."One Piece" is a highly popular Japanese anime and manga series created by Eiichiro Oda. The story follows the adventures of Monkey D. Luffy, a young and ambitious pirate with the goal of becoming the Pirate King by finding the legendary treasure known as One Piece.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oktoniusz&label=Profile%20views&color=0e75b6&style=flat" alt="oktoniusz" /> </p>
 
